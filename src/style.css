@@ -1,0 +1,17 @@
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subContainer{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.input-Field{
+  padding: 0.5rem;
+  width: 23rem;
+  margin-top: 2rem;
+  border-radius: 6px;
+}
